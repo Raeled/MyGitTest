@@ -1,0 +1,3 @@
+[submodule "lib/csgjs-cpp/csgjs-cpp"]
+	path = lib/csgjs-cpp/csgjs-cpp
+	url = https://github.com/dabroz/csgjs-cpp
